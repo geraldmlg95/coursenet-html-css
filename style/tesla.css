@@ -1,0 +1,83 @@
+body {
+    background-color:black ;
+    font-family: 'Poppins', sans-serif;
+}
+
+.buy-banner .carousel-item {
+    height: 125vh;
+    
+}
+
+.phide {
+    text-align: center;
+    column-gap: 30px;;
+    padding-top: 50px;
+}
+
+.rolls h1 {
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+}
+
+.rolls {
+    text-align: center;
+    color: white;
+}
+
+.infobtn {
+display: block;
+margin: auto;
+margin-bottom: 50px;
+}
+
+.rolls h3 {
+    margin-top: 90px;
+    color: white;
+}
+
+.section-service .box {
+    text-align: center;
+    padding: 0px 30px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.section-service .box button {
+    width: 100%;
+    color: white;
+}
+
+.section-service {
+    margin-top: 110px;
+    margin-bottom: 50px;
+    color: white;
+    text-align: center;
+    background-color: gray;
+}
+
+.box img{
+ width: 400px;
+ height: 350px;
+}
+
+.tesla {
+    margin-top: 500px;
+}
+
+footer {
+    margin-top: 70px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    padding-top: 30px;
+}
+
+hr {
+    margin-top: 300px;
+}
+

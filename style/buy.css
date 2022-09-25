@@ -1,0 +1,108 @@
+body {
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.buy-banner .carousel-item {
+    height: 130vh;
+    
+}
+
+.phide {
+    text-align: center;
+    column-gap: 30px;;
+    padding-top: 50px;
+}
+
+.rolls h1 {
+    text-align: center;
+    color: #fff;
+    padding-top: 40px;
+}
+
+.rolls {
+    text-align: center;
+    color: white;
+    margin-bottom: 250px;
+}
+
+
+.infobtn {
+display: block;
+margin: auto;
+margin-bottom: 50px;
+}
+
+.rolls h3 {
+    margin-top: 90px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.rolls2 {
+    margin-top: 400px;
+}
+
+.section-service .box {
+    text-align: center;
+    padding: 0px 30px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.section-service .box button {
+    width: 100%;
+    color: white;
+}
+
+.section-service {
+    margin-top: 110px;
+    margin-bottom: 50px;
+    color: whitesmoke;
+    text-align: center;
+    background-color: white;
+}
+
+.box img{
+ width: 400px;
+ height: 350px;
+}
+
+.tesla {
+    margin-top: 500px;
+}
+
+.trust {
+margin-top: 300px;
+margin-bottom: 50px;
+color: #fff;
+text-align: center;
+
+}
+
+.ban2 {
+height: 826px;
+display: flex; 
+padding-left: 50px;
+margin-bottom: 20px;
+}
+
+footer {
+    background-color: aliceblue ;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    margin-top: 500px;
+}
+
+.rolls h2{
+    margin-top: 100px;
+}

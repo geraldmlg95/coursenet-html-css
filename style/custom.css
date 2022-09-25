@@ -1,0 +1,67 @@
+.home-banner .carousel-item {
+    height: 115vh;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+}
+
+.section-service .box {
+    text-align: center;
+    padding: 0px 30px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.section-service .box button {
+    width: 100%;
+    color: white;
+}
+
+.section-service {
+    padding: 40px 0px;
+    margin-bottom: 50px;
+    color: black;
+}
+
+.section-ads {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: black;
+}
+
+.section-ads h1 {
+    padding-bottom: 40px;
+}
+
+.border {
+    height: 1px;
+    width: 1400px;
+    background-color: silver;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+footer {
+    padding-bottom: 20px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+    
+
+
+/* .section-ads .container {
+border-bottom: 1px solid #000 ;
+
+} */
